@@ -1,6 +1,6 @@
 # Theme 1.0: Students Course Forum
 ## Overview
-My objective is to create a highly visible forum presence for “mywebclass.org"using lean and agile principles that
+My objective is to create a highly visible forum presence for “mywebclass.org" using lean and agile principles that
 develops a strong foundation for students to uncover their learning journeys during courses with Professor Williams.
 By completing the initiatives outlined in this theme, we can establish a solid path forward that ensures our web page
 meets our business requirements throughout the life of the project, setting us up for long-term success.

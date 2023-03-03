@@ -1,6 +1,6 @@
 Task Title: Develop a library of workout tutorials
 
-User Story: User Story 2
+User Story: [Story_2](https://github.com/Swapnil62/mywebclass-agile-docs/blob/1320c8131dc3e780f2ec35f168f84fe08000a11c/documentation/templates/theme/initiatives/epics/stories/Story_2.md)
 
 Description: Completion of this task will allow user to learn and perform a new exercise in a proper form.
 

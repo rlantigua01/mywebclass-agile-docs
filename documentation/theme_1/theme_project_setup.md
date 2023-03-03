@@ -54,7 +54,7 @@ can access the website.
 * User story 5.2: As a website user, I want to easily find the website using search engines, so that I can access the
 website easily.
   * Initiative 5.1: Research and identify relevant keywords and phrases for the website.
-  * nitiative 5.2: Properly structure with appropriate HTML tags, headings, and meta descriptions.
+  * Initiative 5.2: Properly structure with appropriate HTML tags, headings, and meta descriptions.
     * Task 5.1.1: Test website discoverability using search engine tools such as Google Search Console.
 ## Epic 6: Performance Optimization
 * User story 6.1: As a website owner, I want to be able to track user behavior and analyze user data using

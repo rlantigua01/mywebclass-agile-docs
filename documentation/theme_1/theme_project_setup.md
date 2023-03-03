@@ -5,8 +5,8 @@ develops a strong foundation for students to uncover their learning journeys dur
 By completing the initiatives outlined in this theme, we can establish a solid path forward that ensures our web page
 meets our business requirements throughout the life of the project, setting us up for long-term success.
 ## Initiative(s)
-* Provide students accessibility to fellow students at NJIT for interactive support and comments regarding their
-coursework.
+* Provide students accessibility to fellow students at NJIT in class lectures by Professor Keith Williams for
+interactive support and comments regarding their coursework.
 * Develop camaraderie amongst classmates.
 * Enable in-depth knowledge of the work in courses.
 ## Epic 1: User Registration

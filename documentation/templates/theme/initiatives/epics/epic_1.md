@@ -1,4 +1,4 @@
-Browser Workouts
+## Epic 1 - Browser Workouts
 
 Description: Develop a workout database with a user-friendly interface that allows beginners to find workouts tailored to their fitness level and goals.
 

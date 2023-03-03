@@ -1,20 +1,20 @@
-"Title of the Epic"
+Browser Workouts
 
-Description: [A brief description of the epic]
+Description: Develop a workout database with a user-friendly interface that allows beginners to find workouts tailored to their fitness level and goals.
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals: To help beginners browse all types of different workouts on one site.
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+User Stories: As a beginner looking to get started with a workout routine, I want to be able to browse a variety of workouts that are tailored to my fitness level and goals.
 
-Dependencies: [List any dependencies that may impact the epic]
+Dependencies: TBD
 
-Risks: [List the potential risks and mitigation strategies]
+Risks: TBD
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+Estimated Effort: TBD
 
-Business Value: [Specify the business value that will be delivered by the epic]
+Business Value: TBD
 
-Priority: [Assign a priority to the epic]
+Priority: TBD
 
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)

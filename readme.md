@@ -134,6 +134,9 @@ review this effectiveness before the next iteration of the project.
 
 [Project Setup](documentation/theme_1/theme_project_setup.md)
 
+##Agile Theme - Fitness 101
+Allows Beginners to Learn about Different Exercises and Workout Plan
+
 ## Release Schedule
 
 | Release Version | Release Date | Features |

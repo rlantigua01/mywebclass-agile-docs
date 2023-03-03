@@ -1,26 +1,26 @@
-"Title of the Initiative"
+## Fitness 101
 
-Description: [A brief description of the initiative]
+Description: Allows Beginners to Learn about different exercises and workout plan.
 
-Goals: [List the goals or objectives of the initiative]
+Goals: To help beginners meet their workout goal and keep them motivated to works towards it.
 
-Scope: [Define the scope of the initiative]
+Scope: n/a
 
-Outcomes: [Describe the expected outcomes of the initiative]
+Outcomes: n/a
 
-Deliverables: [List the expected deliverables of the initiative]
+Deliverables: n/a 
 
-Milestones: [List the major milestones and their timelines]
+Milestones: n/a
 
-Constraints: [Identify any constraints or limitations that may impact the initiative]
+Constraints: n/a
 
-Assumptions: [List any assumptions made about the initiative]
+Assumptions: n/a
 
-Risks: [List the potential risks and mitigation strategies]
+Risks: n/a
 
-Dependencies: [List any dependencies that may impact the initiative]
+Dependencies: n/a 
 
-Team: [Identify the team members and their roles in the initiative]
+Team: n/a
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)

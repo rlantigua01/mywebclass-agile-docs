@@ -28,4 +28,4 @@ Team: n/a
 3. [Epic 3](documentation/templates/theme/initiatives/epics/epic_3.md)
 4. [Epic 4](documentation/templates/theme/initiatives/epics/epic_4.md)
 5. [Epic 5](documentation/templates/theme/initiatives/epics/epic_5.md)
-6. [Epic 6](documentation/templates/theme/initiatives/epics/epic_6.md)
+

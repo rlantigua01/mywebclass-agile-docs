@@ -1,4 +1,4 @@
-Task Title: Quick and Effective Workouts
+Task Title: Develop database of workouts that can be completed in a short amount of time (Ex. 10-20 minutes)
 
 User Story: [Story_4](mywebclass-agile-docs/documentation/templates/theme/initiatives/epics/stories/Story_4.md)
 

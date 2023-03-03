@@ -1,4 +1,4 @@
-Task Title: Nutrition Information
+Task Title: Develop a library of nutrition articles and tips geared towards beginners
 
 User Story: [Story_5](mywebclass-agile-docs/documentation/templates/theme/initiatives/epics/stories/Story_5.md)
 

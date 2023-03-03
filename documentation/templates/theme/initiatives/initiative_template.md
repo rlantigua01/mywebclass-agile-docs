@@ -23,4 +23,4 @@ Dependencies: n/a
 Team: n/a
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_1.md)
+1. [Epic 1](documentation/templates/theme/initiatives/epics/stories/epic_1.md)

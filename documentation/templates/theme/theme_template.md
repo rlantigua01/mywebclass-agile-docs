@@ -1,7 +1,4 @@
-"As a [user role], I want to [user story] so that [benefit]. By [action], we can [project objective]. This will enable us to [project outcome]. By following [methodology/principles], we can quickly and effectively [project deliverables], setting us up for [long-term benefit]."
-
-You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
-
+As a beginner interested in improving my fitness, I want to visit a website that provides comprehensive resources, tools and guidance to help me achieve my fitness goals. The website should be easy to navigate, offer a variety of workouts and programs to choose from, provide clear instructions and tutorials, offer personalized reccomendations based on fitness level and goals. Overall, I want a website that helps me stay motivated, engaged and on track with my fitness journey. 
 
 # List initiatives related to this theme
 1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)

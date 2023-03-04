@@ -97,4 +97,4 @@ Functionality.
 By following the theme, initiatives, epics, user stories, and tasks outlined above, we can create a basic forum that
 meets legal requirements, is optimized for search engine discoverability, and passes validation and scanning tests.
 ## Test plan
-How will this be tested?
+N/A

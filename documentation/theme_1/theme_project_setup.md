@@ -35,6 +35,8 @@ topics that interest me.
 my comments.
 * User story 3.3: As a user, I want to be able to reply to other users' comments, so that I can have conversations with
 other users.
+[Consider adding a feature to report a comment if it is inappropriate]
+
   * Initiative 3.1: Implement comment creation and management functionality.
   * Initiative 3.2: Implement comment reply functionality.
     * Task 3.1.1: Design comment creation, editing, and deletion functionality.

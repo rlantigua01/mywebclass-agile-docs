@@ -17,6 +17,7 @@ and post comments.
   * Initiative 1.2: Implement password reset functionality using secure authentication methods.
     * Task 1.1.1: Design user registration and login pages.
     * Task 1.1.2: Implement user registration and login functionality.
+[For Epic 1 - can you specify the parameters that will be require in order for user to login (For ex. username, email address, password, etc)]
 ## Epic 2: Forum Creation and Management
 * User story 2.1: As a user, I want to be able to create a new forum, so that I can start a discussion on a topic of my
 choice.

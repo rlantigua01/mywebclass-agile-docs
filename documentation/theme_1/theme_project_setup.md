@@ -31,6 +31,7 @@ topics that interest me.
   * Initiative 2.2: Implement forum search functionality.
     * Task 2.1.1: Design forum creation, editing, and deletion functionality.
     * Task 2.2.1: Design forum search page.
+ [For task 2.2.1 - it would be good to provide more information on how the search page will work, such as what search criteria will be available. Ex. author, keywords, date, etc.]
 ## Epic 3: Comment Creation and Management
 * User story 3.1: As a user, I want to be able to post comments on forums, so that I can participate in discussions.
 * User story 3.2: As a user, I want to be able to edit and delete my own comments, so that I can manage the content of

@@ -57,6 +57,7 @@ website easily.
   * Initiative 5.1: Research and identify relevant keywords and phrases for the website.
   * Initiative 5.2: Properly structure with appropriate HTML tags, headings, and meta descriptions.
     * Task 5.1.1: Test website discoverability using search engine tools such as Google Search Console.
+[In initiative 5.2 - it would be helpful to clarify how the keywords and phrases will be used on the website. For ex. will they use page titles, URLs, or in the content itself]
 ## Epic 6: Performance Optimization
 * User story 6.1: As a website owner, I want to be able to track user behavior and analyze user data using
 Google Analytics.

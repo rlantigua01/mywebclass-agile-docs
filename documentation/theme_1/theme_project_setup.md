@@ -13,6 +13,8 @@ interactive support and comments regarding their coursework.
 * User story 1.1: As a user, I want to be able to register for an account on the website, so that I can create forums
 and post comments.
 * User story 1.2: As a user, I want to be able to log in to my account, so that I can access my forums and comments.
+[What authentication method you will be using, when a user resets their password (ex. authenticator application, SMS, one-time code, etc)]
+
   * Initiative 1.1: Implement user registration and login functionality using secure authentication methods.
   * Initiative 1.2: Implement password reset functionality using secure authentication methods.
     * Task 1.1.1: Design user registration and login pages.
